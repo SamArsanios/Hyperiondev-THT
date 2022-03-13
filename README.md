@@ -22,3 +22,9 @@ You've done well implementing a solution to the given problem, but there are sti
 
 ### Documentation
 1. Please consider adding comments to the code because comments give clarity to your code. It helps you remember certain things that you might have forgotten after writing so many lines of code. It is also good practice because it helps and guides other developers.
+
+## Section B: Project
+This is a cabin finder or locator app where users are able to create/add cabins, see a list of different types of cabins and can add them to their favourites list.
+
+- [Project Repository Link](https://github.com/SamArsanios/cabin-quest) 
+- [Live Application Link](https://cabinquest.herokuapp.com/)
