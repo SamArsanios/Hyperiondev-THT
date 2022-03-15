@@ -49,7 +49,7 @@ _Get a local copy up and running by following these simple steps._
 ### Run Unit Tests(Rspec)
 1. Run the command `rspec` or `rspec ./spec/ISBN_spec.rb`
 
-        OR
+        `OR`
 1. Go into the folder containing the project by typing `cd Hyperiondev-THT`
 2. Go into the folder containing the project by typing `cd spec`
 3. Run command `rspec ISBN_spec.rb`
