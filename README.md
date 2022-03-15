@@ -1,6 +1,10 @@
 # Hyperiondev-THT
 
 This repsitory contains solutions to the Hyperiondev Code Reviewer test assessment.
+- [Section A](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-a)
+- [Section B](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-b)
+- [Section C](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-c)
+
 
 ## Section A: Code Review
 Option 1: Python Task
@@ -44,7 +48,7 @@ _Get a local copy up and running by following these simple steps._
 4. Type in your terminal the command `ruby ISBN.rb` to run the program
 
 ### Run Unit Tests(Rspec)
-1. Run in the command `rspec`
+1. Run the command `rspec`
 
         OR
 
