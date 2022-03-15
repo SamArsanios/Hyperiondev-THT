@@ -1,9 +1,9 @@
 # Hyperiondev-THT
 
 This repsitory contains solutions to the Hyperiondev Code Reviewer test assessment.
-- [Section A](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-a)
-- [Section B](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-b)
-- [Section C](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-c)
+- [Section A](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-a-code-review)
+- [Section B](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-b-code-project)
+- [Section C](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-c-code-challenge)
 
 
 ## Section A: Code Review
@@ -33,7 +33,7 @@ This is a cabin finder or locator app where users are able to create/add cabins,
 - [Project Repository Link](https://github.com/SamArsanios/cabin-quest) 
 - [Live Application Link](https://cabinquest.herokuapp.com/)
 
-## Section B: Code Challenge
+## Section C: Code Challenge
 Option 4: International Standard Book Numbers
 
 - [Link to assignment](https://edabit.com/challenge/4E9gTrRWErpTCA2FQ)
