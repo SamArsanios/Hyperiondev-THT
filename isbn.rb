@@ -1,4 +1,3 @@
-# rubocop:disable Metrics/PerceivedComplexity, Metrics/PerceivedComplexity, Metrics/MethodLength, Metrics/CyclomaticComplexity, Lint/ShadowingOuterLocalVariable
 def isbn13(str)
   arr = str.length == 10 ? [10, 9, 8, 7, 6, 5, 4, 3, 2, 1] : [1, 3, 1, 3, 1, 3, 1, 3, 1, 3, 1, 3, 1]
 
@@ -30,4 +29,3 @@ def isbn13(str)
 end
 
 isbn13('0330301624')
-# rubocop:enable Metrics/PerceivedComplexity,Metrics/PerceivedComplexity, Metrics/MethodLength, Metrics/CyclomaticComplexity, Lint/ShadowingOuterLocalVariable
