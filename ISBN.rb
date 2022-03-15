@@ -6,7 +6,6 @@ def isbn13(str)
     end
 
 		splited = str.split("")
-        # p splited
         converted = splited.map(&:to_i)
         # p converted
         
@@ -16,20 +15,21 @@ def isbn13(str)
 
         if str.length == 10
             if sum % 11 == 0
-                p "ISBN-10 is Valid!"
+                value = "Valid"
                 p converted.unshift(978)
                 converted[-1] += 1
                 p converted.join("")
             else
-                p "ISBN-10 is Invalid!"
+                value = "Invalid"
             end
         elsif str.length == 13
             if sum % 10 == 0
-                p "ISBN-13 is Valid!"
+                value = "Valid"
             else
-                p "ISBN-13 is Invalid!"
+                value = "Invalid"
             end
         end
+        value
 end
 
 isbn13("0330301624")
