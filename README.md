@@ -2,7 +2,7 @@
 
 This repsitory contains solutions to the Hyperiondev Code Reviewer test assessment.
 - [Section A](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-a-code-review)
-- [Section B](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-b-code-project)
+- [Section B](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-b-project)
 - [Section C](https://github.com/SamArsanios/Hyperiondev-THT/blob/main/README.md#section-c-code-challenge)
 
 
