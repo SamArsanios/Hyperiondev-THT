@@ -44,12 +44,12 @@ _Get a local copy up and running by following these simple steps._
 1. Run command `git clone https://github.com/SamArsanios/Hyperiondev-THT.git` to clone the repository
 2. Run command `bundle install` to install requirred gems
 3. Go into the folder containing the project by typing `cd Hyperiondev-THT`
-4. Type in your terminal the command `ruby ISBN.rb` to run the program
+4. Type in your terminal the command `ruby isbn.rb` to run the program
 
 ### Run Unit Tests(Rspec)
-1. Run the command `rspec` or `rspec ./spec/ISBN_spec.rb`
+1. Run the command `rspec` or `rspec ./spec/isbn_spec.rb`
 
         `OR`
 1. Go into the folder containing the project by typing `cd Hyperiondev-THT`
 2. Go into the folder containing the project by typing `cd spec`
-3. Run command `rspec ISBN_spec.rb`
+3. Run command `rspec isbn_spec.rb`
