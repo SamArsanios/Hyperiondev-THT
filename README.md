@@ -28,3 +28,26 @@ This is a cabin finder or locator app where users are able to create/add cabins,
 
 - [Project Repository Link](https://github.com/SamArsanios/cabin-quest) 
 - [Live Application Link](https://cabinquest.herokuapp.com/)
+
+## Section B: Code Challenge
+Option 4: International Standard Book Numbers
+
+- [Link to assignment](https://edabit.com/challenge/4E9gTrRWErpTCA2FQ)
+
+## Getting Started
+
+_Get a local copy up and running by following these simple steps._
+
+1. Run command `git clone https://github.com/SamArsanios/Hyperiondev.git` to clone the repository
+2. Run command `bundle install` to install requirred gems
+3. Go into the folder containing the project by typing `cd Hyperiondev-THT`
+4. Type in your terminal the command `ruby ISBN.rb` to run the program
+
+### Run Unit Tests(Rspec)
+1. Run in the command `rspec`
+
+        OR
+
+1. Go into the folder containing the project by typing `cd Hyperiondev-THT`
+2. Go into the folder containing the project by typing `cd spec`
+3. Run command `rspec ISBN_spec.rb`
