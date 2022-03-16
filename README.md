@@ -42,7 +42,7 @@ Option 4: International Standard Book Numbers
 _Get a local copy up and running by following these simple steps._
 
 1. Run command `git clone https://github.com/SamArsanios/Hyperiondev-THT.git` to clone the repository
-2. Run command `bundle install` to install requirred gems
+2. Run command `bundle install` to install required gems
 3. Go into the folder containing the project by typing `cd Hyperiondev-THT`
 4. Type in your terminal the command `ruby isbn.rb` to run the program
 
